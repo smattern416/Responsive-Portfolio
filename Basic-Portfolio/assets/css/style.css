@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #434242;
-  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/arab_tile.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/positive.png")
 }
 
 * {
@@ -24,12 +24,12 @@ h2,
 h3,
 p {
   margin-bottom: 20px;
-  background-color: rgb(190, 164, 211);
+  background-color: hotpink;
 }
 
 p:last-child {
   margin-bottom: 0;
-  background-color:  rgb(190, 164, 211);
+  background-color: hotpink;
 }
 
 h1,
@@ -45,7 +45,7 @@ h1 {
   font-size: 30px;
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
-  background-color: #ffffff
+  background-color: hotpink;
 }
 
 h2,
@@ -62,8 +62,9 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #000000;
-  background-color:  rgb(190, 164, 211);
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/diagonal_striped_brick.png");
   border-bottom: 2px solid #cccccc;
+  margin-top: 0;
 }
 
 #logo {
@@ -77,7 +78,7 @@ h3 {
   color: #000000;
   text-align: center;
   text-decoration: none;
-  background-color:  rgb(190, 164, 211);
+  background-image: url("assets/images/diagonal_striped_brick.png");
   border-style: dotted;
   border-color: #434242;
 }
@@ -95,6 +96,7 @@ nav a {
   color: #000000;
   text-decoration: none;
   border-left: 1px solid #efefef;
+  background-image: url("assets/images/diagonal_striped_brick.png");
 }
 
 nav a:first-child {
@@ -110,8 +112,7 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
-  border-top: 8px rgb(172, 129, 143);;
+  background: hotpink;
   height: 50px;
 }
 
@@ -135,7 +136,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background-color: #666666;
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/diagonal_striped_brick.png");
   border: 1px solid #dddddd;
 }
 
@@ -169,7 +170,6 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
   border-bottom: 0;
 }
 
