@@ -233,9 +233,9 @@ input[type=submit] {
     width: 80%;
     float: none;
 }
-#contact-form ul{
+  #contact-form ul{
   list-style-type: none;
-  width: 100%;
+  width: 0%;
 }
 ul{
   padding-inline-start: 0;
@@ -251,14 +251,26 @@ ul{
   padding-bottom: 200px;
   padding: 10% 0 50% 0;
 }
+.work{
+  text-align: center;
+  float: left;
+}
 @media screen and (max-width: 640px) {
     #masthead{
     float: none;
     text-align: center;
+    position: static;
+    }
+    #main-container{
+      padding-top: 10%;
+      padding-bottom: 200px;
+      padding: 0 0 50% 0;
+      height: auto;
     }
    .main-section{
     margin: 50px;
     width: 80%;
+    height: auto;
    }
    #logo{
      text-align: center;
@@ -289,5 +301,9 @@ ul{
   }
 #contact-form ul{
   list-style-type: none;
+    width: 0%;
+}
+li{
+  width: 350px;
 }
 }
