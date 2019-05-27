@@ -242,6 +242,9 @@ input[type=submit] {
   margin: 0 auto;
   clear: both;
 }
+#main-container{
+  padding-top: 10%;
+}
 @media screen and (max-width: 640px) {
     #masthead{
     float: none;
