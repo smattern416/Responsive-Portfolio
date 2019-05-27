@@ -235,7 +235,7 @@ input[type=submit] {
 }
 #contact-form ul{
   list-style-type: none;
-  width: 80%;
+  width: 100%;
 }
 ul{
   padding-inline-start: 0;
