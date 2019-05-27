@@ -265,7 +265,8 @@ input[type=submit] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
   }
-
+#contact-form ul{
+  list-style-type: none;
+}
 }
