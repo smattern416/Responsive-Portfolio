@@ -259,5 +259,13 @@ input[type=submit] {
     float: left;
     width: 100%;
   } 
+  .auth-image{
+    float: none;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
 
 }
