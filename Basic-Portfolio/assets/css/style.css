@@ -233,18 +233,31 @@ input[type=submit] {
 @media screen and (max-width: 640px) {
     #masthead{
     float: none;
-    text-align: center
+    text-align: center;
     }
    .main-section{
-     margin-right: 30%; 
+    margin: 50px;
+    width: 80%;
    }
    #logo{
      text-align: center;
      float: left;
      width: 100%;
+     height: 50px;
+     border: none;
    }
    nav{
     text-align: center;
     float: left;
-    width: 100%;}
-   }
+    width: 100%;
+    padding: none;
+    background-color: hotpink;
+    border-style: dotted;
+  }
+  .work{
+    text-align: center;
+    float: left;
+    width: 100%;
+  } 
+
+}
