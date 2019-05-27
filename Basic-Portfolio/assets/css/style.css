@@ -228,7 +228,19 @@ input[type=submit] {
 @media screen and (max-width: 980px) {
 }
 @media screen and (max-width: 768px) {
- 
+  .main-section{
+    margin: 50px;
+    width: 80%;
+}
+#contact-form ul{
+  list-style-type: none;
+  
+}
+.container {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
 }
 @media screen and (max-width: 640px) {
     #masthead{
