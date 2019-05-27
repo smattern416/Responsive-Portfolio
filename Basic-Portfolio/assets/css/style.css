@@ -17,6 +17,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
   clear: both;
+  padding: 0px;
 }
 
 h1,
@@ -65,6 +66,7 @@ h3 {
   background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/diagonal_striped_brick.png");
   border-bottom: 2px solid #cccccc;
   margin-top: 0;
+  padding: 0px;
 }
 
 #logo {
