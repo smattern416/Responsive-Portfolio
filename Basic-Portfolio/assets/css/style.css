@@ -231,6 +231,7 @@ input[type=submit] {
   .main-section{
     margin: 50px;
     width: 80%;
+    float: none;
 }
 #contact-form ul{
   list-style-type: none;
@@ -244,6 +245,8 @@ input[type=submit] {
 }
 #main-container{
   padding-top: 10%;
+  padding-bottom: 200px;
+  padding: 10% 0 50% 0;
 }
 @media screen and (max-width: 640px) {
     #masthead{
