@@ -220,9 +220,10 @@ textarea {
 input[type=submit] {
   padding: 10px 30px;
   font-size: 18px;
-  color: #ffffff;
+  color: black;
   cursor: pointer;
-  background: #4aaaa5;
+  background: hotpink;
+  font-family: 'Shadows Into Light', cursive;
   border: 0 none;
 }
 @media screen and (max-width: 980px) {
