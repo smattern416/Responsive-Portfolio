@@ -231,6 +231,13 @@ input[type=submit] {
   max-width: 700px;
   margin-left: 70px;
 }
+#contact-form ul{
+  list-style-type: none;
+  width: 638px;
+}
+ul{
+  padding-inline-start: 0;
+}
 @media screen and (max-width: 768px) {
   .main-section{
     margin: 50px;
