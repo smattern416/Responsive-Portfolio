@@ -270,7 +270,7 @@ ul{
    .main-section{
     margin: 50px;
     width: 80%;
-    height: auto;
+    overflow:auto;
    }
    #logo{
      text-align: center;
