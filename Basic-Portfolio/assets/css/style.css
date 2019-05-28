@@ -240,6 +240,9 @@ input[type=submit] {
 ul{
   padding-inline-start: 0;
 }
+li{
+  width: 435px;
+}
 .container {
   width: 80%;
   max-width: 960px;
