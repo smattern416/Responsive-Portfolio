@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #434242;
-  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/positive.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/assets/images/positive.png");
   margin: 0;
 }
 
@@ -63,7 +63,7 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #000000;
-  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/diagonal_striped_brick.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/assets/images/diagonal_striped_brick.png");
   border-bottom: 2px solid #cccccc;
   margin-top: 0;
   padding: 0px;
@@ -80,7 +80,7 @@ h3 {
   color: #000000;
   text-align: center;
   text-decoration: none;
-  background-image: url("assets/images/diagonal_striped_brick.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/assets/images/diagonal_striped_brick.png");
   border-style: dotted;
   border-color: #434242;
 }
@@ -98,7 +98,7 @@ nav a {
   color: #000000;
   text-decoration: none;
   border-left: 1px solid #efefef;
-  background-image: url("assets/images/diagonal_striped_brick.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/assets/images/diagonal_striped_brick.png");
 }
 
 nav a:first-child {
@@ -141,7 +141,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/Basic-Portfolio/assets/images/diagonal_striped_brick.png");
+  background-image: url("/Users/stephaniemattern/Desktop/Responsive-Portfolio/assets/images/diagonal_striped_brick.png");
   border: 1px solid #dddddd;
 }
 
